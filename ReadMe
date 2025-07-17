@@ -1,0 +1,23 @@
+* Book Catalog API
+
+A RESTful backend API built with **Node.js**, **Express**, and **MongoDB** to manage a library's book catalog. The API supports full **CRUD operations**, **searching**, **filtering**, and **pagination**.
+
+---
+
+
+- Add, view, update, and delete books
+- Search by title or author
+- Filter by genre, availability, or publication year
+- Pagination and sorting support
+- Built with Express and MongoDB (via Mongoose)
+
+---
+
+ * tech stack
+
+- **Backend**: Node.js, Express
+- **Database**: MongoDB + Mongoose
+- **Dev Tools**: Nodemon, Morgan, Dotenv
+- **API Format**: RESTful (JSON)
+
+
